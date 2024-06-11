@@ -6,8 +6,9 @@ Orange
 Blue
 Green
 Unicorn
+Ponies
 Yellow
 Red
 Violet
 These are the colors of the rainbow.
-And the unicorn.
+And the unicorn and ponies
